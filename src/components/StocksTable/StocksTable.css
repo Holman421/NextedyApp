@@ -1,0 +1,24 @@
+.stocks-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.stocks-table th,
+.stocks-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.stocks-table th {
+  background-color: #1a1d22;
+  font-weight: bold;
+}
+
+.no-stocks {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
